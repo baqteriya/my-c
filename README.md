@@ -1,3 +1,3 @@
 # my-c
 
-Hello, this is my C++ codes repository.
+Hello, this is my C codes repository.
